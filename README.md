@@ -62,17 +62,10 @@ The dashboard helps analyze:
 - Age-group analysis
 - Quarterly performance
 
-## 📂 Project Files
-
-```text
-Excel-Production-Dataset-Dashboard/
-│
-├── Excel_Report_Dashboard_Project2.xlsx
-├── Excel+Dashboard+2+Uncleaned.xlsx
-├── dashboard.png
-└── README.md
-
 ## Author
 
 **Aditya Kaushal**  
 Aerospace Engineering Graduate | Aspiring Data Analyst
+
+
+
